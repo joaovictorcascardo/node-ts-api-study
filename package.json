@@ -12,6 +12,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@types/cors": "^2.8.19",
+    "cors": "^2.8.5",
     "express": "^4.19.2",
     "ts-node-dev": "^2.0.0",
     "typescript": "^5.4.5"
